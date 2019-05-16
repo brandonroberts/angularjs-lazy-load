@@ -114,6 +114,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "angularjs-hybrid"
 }
